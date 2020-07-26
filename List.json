@@ -1,0 +1,20 @@
+{
+	"List": [
+		{
+			"Name": "Aldo",
+			"image": "Aldo.jfif"
+		},
+		{
+			"Name": "Sport Check",
+			"image": "sport.jfif"
+		},
+		{
+			"Name": "Sephora",
+			"image": "sephora.jfif"
+		},
+		{
+			"Name": "H&M",
+			"image": "H.jfif"
+		}
+	]
+}
